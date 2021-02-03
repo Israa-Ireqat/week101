@@ -1,12 +1,14 @@
 # week101
+
 # ***Mark down***
+
  Mark down is a way to style the texts and control the content formatting on your site or application
 
 >>**Syntax guide for Mark down**:
 
 * The "#" is used for first heading
 
- * The "##" is used for the second heading ..... and so on up to 6
+* The "##" is used for the second heading ..... and so on up to 6
 
 * Font can be styled "*Italic*" by adding the star * befor and after the word or the sentence.
 * You can make the text **Bold** by typing ** before and after the text.
@@ -40,9 +42,3 @@ As Kanye West said:
 * **Mentions**
 * **Automatic linking for URL's**
 * **Emojis** :) 
-
-
-
-
-
-
